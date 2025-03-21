@@ -998,7 +998,8 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/"
+          "base_uri": "https://localhost:8080/",
+          "height": 0
         },
         "id": "RGiM2z-JMjIM",
         "outputId": "a4ec5f69-ecea-44ba-ab25-e1a195faca2c"
